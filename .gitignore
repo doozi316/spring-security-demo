@@ -137,4 +137,7 @@ dist/
 npm-debug.log
 yarn-error.log
 
+#spring-security-frontend
+spring-security-frontend/.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,maven,vue,vuejs
